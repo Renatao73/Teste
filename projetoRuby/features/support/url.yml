@@ -1,0 +1,8 @@
+#--------------------URls e parametros-------------------
+marvel:
+  url:
+    homolog: https://gateway.marvel.com:443/v1/public/
+
+#API_KEY
+  hash: 
+    api_key: ?apikey=aa0a9293357bce18b523a15b8923dc59&ts=1&hash=ef66d53b50011859b786a2925ab025c9

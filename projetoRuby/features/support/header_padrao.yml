@@ -1,0 +1,4 @@
+#--------------------headers-------------------
+marvel:
+  Content-Type: application/json
+  Accept: application/json

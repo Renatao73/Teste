@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "each": "^2.4.0",
+    "expect": "^29.5.0"
+  }
+}
